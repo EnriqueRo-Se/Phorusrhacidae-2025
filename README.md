@@ -1,4 +1,4 @@
-This repository contains the variables used in the paper ‘Untangling the causes of Terror Birds extinction (Phorusrhacidae): the relevance of biotic and abiotic factors’, by Yorna González-Bravo, Kateryn Pino, Nicolás Espinoza-Aravena, and Enrique Rodríguez-Serrano. The authors work at the Laboratorio de Mastozoología, Departamento de Zoología, Facultad de Ciencias Naturales y Oceanográficas, Universidad de Concepción, Chile.
+This repository contains the variables used in the paper ‘Untangling the causes of Terror Birds extinction (Phorusrhacidae): the interplay of biotic and abiotic factors’, by Yorna González-Bravo, Kateryn Pino, Nicolás Espinoza-Aravena, and Enrique Rodríguez-Serrano. The authors work at the Laboratorio de Mastozoología, Departamento de Zoología, Facultad de Ciencias Naturales y Oceanográficas, Universidad de Concepción, Chile.
 DOI: 
 
 This dataset is composed of two parts:
